@@ -4,7 +4,7 @@ Python 3.7
 
 Ils bloquent les requêtes quand il y en a trop les bâtards.
 
-J'ai modifié le script. Ils rendent flou les personnes qui ont matché avec toi, ça c'est dégagé avec le fichier (td_script.py).
+J'ai modifié le script. Ils rendent flou les personnes qui ont matché avec toi, je l'ai désactivé dans le fichier (td_no_blur.py).
 J'ai pas dit mon dernier mot sur la liste des personnes qui ont matché. J'ai pas dit mon dernier mot.
 Stay tuned j'y viendrai a bout.
 
